@@ -12,6 +12,10 @@ AngularJS 学习
 
 很遗憾，国内还没有关于 AngularJS 的书籍，如果你发现了或者出版了，可以创建 [issues](https://github.com/justjavac/AngularJS-Learning-zh_CN/issues/new) 通知我。
 
+还真找到一本，感谢 [basestyle](https://github.com/basestyle) 的翻译。
+
+* [angularjs中文版](https://github.com/basestyle/angularjs-cn)
+
 ## 视频 Videos
 
 暂无
