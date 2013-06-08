@@ -19,9 +19,8 @@ AngularJS 学习
 ## 帮助 Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular) （墙外）
-* [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
-* [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756) （墙外）
 * [SegmentFault](http://segmentfault.com/t/angularjs) （中文）
+* [知乎](http://www.zhihu.com/topic/19837063)
 
 ## 常规话题 General Topics
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
