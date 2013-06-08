@@ -79,7 +79,7 @@ AngularJS 学习
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
 * [AngularJS: More on Dependency Injection] (http://dailyjs.com/2013/05/23/angularjs-injection/)
 
-## Directives
+## 指令 Directives
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
 * [AngularJS Directives - Domain-Specific Extensions to HTML] (http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html)
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
