@@ -17,6 +17,8 @@ AngularJS 学习
 * [Web Application Development With AngularJS] (http://www.packtpub.com/angularjs-web-application-development/book)
 * [Developing An AngularJS Edge] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
 
+很遗憾，国内还没有关于 AngularJS 的书籍，如果你发现了或者出版了，可以创建 [issues](https://github.com/justjavac/AngularJS-Learning-zh_CN/issues/new) 通知我。
+
 ## 视频 Videos
 * [Egghead.io] (http://www.egghead.io/)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes] (http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
@@ -29,9 +31,10 @@ AngularJS 学习
 
 ## 帮助 Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
-* [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
+* [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular) （墙外）
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
-* [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)
+* [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756) （墙外）
+* [SegmentFault](http://segmentfault.com/t/angularjs) （中文）
 
 ## 常规话题 General Topics
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
