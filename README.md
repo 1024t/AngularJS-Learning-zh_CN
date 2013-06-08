@@ -24,7 +24,8 @@ AngularJS 学习
 
 ## 常规话题 General Topics
 * [现在就开始使用AngularJS的三个重要原因](http://www.gbin1.com/technology/javascript/20130121-three-reasons-for-using-angularjs/)
-* [使用AngularJS构建大型Web应用](http://www.infoq.com/cn/news/2013/02/angular-web-app) by InfoQ
+* [使用AngularJS构建大型Web应用](http://www.infoq.com/cn/news/2013/02/angular-web-app)
+* [AngularJS的五个超酷特性](http://www.gbin1.com/technology/javascript/20120717-AugularJS-features/)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Fun With AngularJS] (http://devgirl.org/2013/03/21/fun-with-angularjs/)
