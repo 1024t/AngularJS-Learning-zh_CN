@@ -23,6 +23,7 @@ AngularJS 学习
 * [知乎](http://www.zhihu.com/topic/19837063)
 
 ## 常规话题 General Topics
+* [使用AngularJS构建大型Web应用](http://www.infoq.com/cn/news/2013/02/angular-web-app) by InfoQ
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Fun With AngularJS] (http://devgirl.org/2013/03/21/fun-with-angularjs/)
