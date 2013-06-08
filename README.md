@@ -14,7 +14,7 @@ AngularJS 学习
 
 还真找到一本：
 
-* [angularjs中译本](https://github.com/basestyle/angularjs-cn) 感谢 [basestyle](https://github.com/basestyle) 的翻译。
+* [angularjs中译本](https://github.com/basestyle/angularjs-cn) 感谢 [basecss](https://github.com/basestyle) 的翻译。
 
 ## 视频 Videos
 
